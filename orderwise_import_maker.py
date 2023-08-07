@@ -1,6 +1,6 @@
 import pandas as pd
 
-# read in the two CSV files
+# read the two CSV files
 old_data = pd.read_csv('data_before.csv')
 new_data = pd.read_csv('pricelist.csv')
 
